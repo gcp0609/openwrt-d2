@@ -25,6 +25,7 @@ DEFAULT_PACKAGES:=\
 	urngd \
 	opkg \
 	ca-bundle \
+	libustream-wolfssl \
 	#	libustream-wolfssl \
 	#	opkg \
 	#	ca-bundle \
@@ -55,6 +56,11 @@ DEFAULT_PACKAGES.router:=\
 	luci-newapi default-settings luci \
 	luci-app-ssr-plus \
 	trojan \
+	shadowsocks-libev \
+	simple-obfs \
+	libreswan \
+	strongswan \
+
 	#shadowsocks-libev \
 	#simple-obfs \
 	#-ip6tables \
