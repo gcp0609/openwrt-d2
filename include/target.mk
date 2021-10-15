@@ -26,6 +26,7 @@ DEFAULT_PACKAGES:=\
 	opkg \
 	ca-bundle \
 	libustream-wolfssl \
+	luci luci-base luci-compat \
 	#	libustream-wolfssl \
 	#	opkg \
 	#	ca-bundle \
