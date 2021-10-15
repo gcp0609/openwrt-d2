@@ -61,6 +61,7 @@ DEFAULT_PACKAGES.router:=\
 	simple-obfs \
 	libreswan \
 	strongswan \
+	luci-app-ipsec-vpnd \
 
 	#shadowsocks-libev \
 	#simple-obfs \
