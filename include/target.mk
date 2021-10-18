@@ -62,6 +62,7 @@ DEFAULT_PACKAGES.router:=\
 	libreswan \
 	strongswan \
 	strongswan-default \
+	iptables-mod-nat-extra djbdns-tools strongswan-utils \
 	luci-app-ipsec-vpnd \
 
 	#shadowsocks-libev \
